@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @karthi770
+- 👋 Hi, I’m Karthikeyan Selvaraj
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning SQL and Python
 - 💞️ I’m looking to collaborate on Projects
