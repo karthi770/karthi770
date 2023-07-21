@@ -1,9 +1,3 @@
-- 👋 Hi, I’m Karthikeyan Selvaraj
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning SQL and Python
-- 💞️ I’m looking to collaborate on Projects
-- 📫 How to reach me karthikeyanselvaraj37@gmail.com
-
 <!---
 karthi770/karthi770 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -15,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 
 ![Profile Picture](profile_picture.jpg)
 
-Hello there! 👋 Welcome to my GitHub page! I am John Doe, an aspiring Cloud Operations Engineer with a passion for all things cloud, infrastructure, and DevOps. I am eager to leverage my skills and knowledge to contribute to exciting projects and gain hands-on experience in the ever-evolving world of cloud technologies.
+Hello there! 👋 Welcome to my GitHub page! I am Karthikeyan Selvaraj, an aspiring Cloud Operations Engineer with a passion for all things cloud, infrastructure, and DevOps. I am eager to leverage my skills and knowledge to contribute to exciting projects and gain hands-on experience in the ever-evolving world of cloud technologies. You can reach me at karthikeyanselvaraj37@gmail.com
 
 ### About Me
 
