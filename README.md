@@ -47,7 +47,7 @@ My primary goal is to grow as a Cloud Operations Engineer and contribute to cutt
 
 ### Contact
 
-Feel free to reach out to me via email at karthikeyanselvaraj37@gmail.com or connect with me on LinkedIn [here](www.linkedin.com/in/karthikeyan-selvaraj-73b6067a). I am always open to new opportunities and networking!
+Feel free to reach out to me via email at karthikeyanselvaraj37@gmail.com or connect with me on LinkedIn [here](https://www.linkedin.com/in/karthikeyan-selvaraj-73b6067a/). I am always open to new opportunities and networking!
 
 Let's build a cloud-native future together! 😄
 
