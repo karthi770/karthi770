@@ -7,10 +7,8 @@ You can click the Preview link to take a look at your changes.
 
 ## Cloud Operations Engineer
 
-![Profile Picture](profile_picture.jpg)
 
-Hello there! 👋 Welcome to my GitHub page! I am Karthikeyan Selvaraj, an aspiring Cloud Operations Engineer with a passion for all things cloud, infrastructure, and DevOps. I am eager to leverage my skills and knowledge to contribute to exciting projects and gain hands-on experience in the ever-evolving world of cloud technologies. You can reach me at karthikeyanselvaraj37@gmail.com
-
+Hello there! 👋 Welcome to my GitHub page! I am Karthikeyan Selvaraj, an aspiring Cloud Operations Engineer with a passion for all things cloud, infrastructure, and DevOps. I am eager to leverage my skills and knowledge to contribute to exciting projects and gain hands-on experience in the ever-evolving world of cloud technologies.
 ### About Me
 
 I am a recent graduate with a Bachelor's degree in Computer Science, and I am deeply interested in cloud computing, automation, and building scalable and reliable infrastructure. My academic background and personal projects have provided me with a solid foundation in cloud technologies and best practices.
@@ -43,6 +41,6 @@ My primary goal is to grow as a Cloud Operations Engineer and contribute to cutt
 
 ### Contact
 
-Feel free to reach out to me via email at john.doe@email.com or connect with me on LinkedIn [here](https://www.linkedin.com/in/johndoe/). I am always open to new opportunities and networking!
+Feel free to reach out to me via email at karthikeyanselvaraj37@gmail.com or connect with me on LinkedIn [here](www.linkedin.com/in/karthikeyan-selvaraj-73b6067a). I am always open to new opportunities and networking!
 
 Let's build a cloud-native future together! 😄
