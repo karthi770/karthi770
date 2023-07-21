@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 
 # Karthikeyan Selvaraj
 
-## Cloud Operations Engineer | Entry-Level
+## Cloud Operations Engineer
 
 ![Profile Picture](profile_picture.jpg)
 
