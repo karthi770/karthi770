@@ -7,11 +7,17 @@ You can click the Preview link to take a look at your changes.
 
 ## Cloud Operations Engineer
 
+Hello there! 👋 Welcome to my GitHub page! I am Karthikeyan Selvaraj, a Mechanical Engineer with an energy background who has ventured into the world of cloud and DevOps due to my keen interest in technology. I am now an aspiring Cloud Operations Engineer with a passion for all things cloud, infrastructure, and DevOps. I am eager to leverage my skills and knowledge to contribute to exciting projects and gain hands-on experience in the ever-evolving world of cloud technologies.
 
-Hello there! 👋 Welcome to my GitHub page! I am Karthikeyan Selvaraj, an aspiring Cloud Operations Engineer with a passion for all things cloud, infrastructure, and DevOps. I am eager to leverage my skills and knowledge to contribute to exciting projects and gain hands-on experience in the ever-evolving world of cloud technologies.
 ### About Me
 
-I am a recent graduate with a Bachelor's degree in Computer Science, and I am deeply interested in cloud computing, automation, and building scalable and reliable infrastructure. My academic background and personal projects have provided me with a solid foundation in cloud technologies and best practices.
+I hold a Bachelor's degree in Mechanical Engineering and possess a strong interest in cloud computing, automation, and building scalable and reliable infrastructure. Despite my non-traditional background, my academic foundation and personal projects have provided me with a solid understanding of cloud technologies and best practices.
+
+### Certifications
+
+- AWS Certified Cloud Practitioner - Amazon Web Services (AWS) - 05/2023 - 05/2026
+- AWS Certified Solutions Architect – Associate - Amazon Web Services (AWS) - 06/2023 - 06/2026
+- Terraform Associate - HashiCorp - 06/2023 - 06/2025
 
 ### Tech Stack
 
@@ -44,3 +50,4 @@ My primary goal is to grow as a Cloud Operations Engineer and contribute to cutt
 Feel free to reach out to me via email at karthikeyanselvaraj37@gmail.com or connect with me on LinkedIn [here](www.linkedin.com/in/karthikeyan-selvaraj-73b6067a). I am always open to new opportunities and networking!
 
 Let's build a cloud-native future together! 😄
+
