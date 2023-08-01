@@ -41,6 +41,8 @@ In this project, I used Terraform to create an automated infrastructure deployme
 
 For this project, I configured a Kubernetes EKS cluster on AWS, deploying containerized applications using Helm charts and managing their lifecycle efficiently.
 
+Kindly go through the notion page to see the project and its snaps - https://karthi770.notion.site/DevOps-Projects-544630b30490481ebf2b91a97a5c5c18?pvs=4
+
 ### Goals
 
 My primary goal is to grow as a Cloud Operations Engineer and contribute to cutting-edge cloud projects. I am excited to collaborate with experienced professionals, learn from them, and apply my knowledge to tackle real-world challenges.
