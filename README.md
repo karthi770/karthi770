@@ -55,4 +55,4 @@ Every project here follows the same loop: build it, break it on purpose, fix it,
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/karthikeyan-selvaraj-73b6067a/)
+karthikeyanselvaraj37@gmail.com
