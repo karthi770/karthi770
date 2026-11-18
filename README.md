@@ -1,70 +1,58 @@
 # Karthikeyan Selvaraj
 
-## Application Support Analyst | Cloud Enthusiast
+### Aspiring Systems Administrator
 
-Hello there! 👋 Welcome to my GitHub page! I am Karthikeyan Selvaraj, an Application Support Analyst with a solid background in mechanical engineering and a strong passion for cloud technologies and infrastructure management. With over 4 years of professional experience in application support, server administration, and production support, I am now channeling my expertise into exploring the dynamic world of cloud computing and DevOps.
-
----
-
-### About Me
-
-I started my professional journey in mechanical engineering, transitioned into IT, and have since developed expertise in application support for complex environments. My experience spans supporting infrastructure for 2,000+ users, configuring application servers like Apache and Tomcat, automating workflows using shell scripting, and maintaining robust system performance.
-
-Now, I am expanding my skillset in cloud platforms and infrastructure as code to align with emerging industry trends. My journey reflects my adaptability, commitment to learning, and drive to contribute to cutting-edge technological advancements.
+I'm working toward a systems administrator role. I learn by building real infrastructure in labs, breaking it on purpose, fixing it, and writing down what happened. The projects below are the evidence.
 
 ---
 
-### Certifications
+## Featured project
 
-- **AWS Certified Cloud Practitioner** - Amazon Web Services (AWS)
-- **AWS Certified Solutions Architect – Associate** - Amazon Web Services (AWS)
-- **Terraform Associate** - HashiCorp
+### [Secure AWS Infrastructure & Operations](https://github.com/karthi770/secure-aws-infrastructure-operations) (in progress)
 
----
+A CloudFormation-managed AWS environment in `ca-central-1`, built to practise operating infrastructure securely, not just deploying it.
 
-### Tech Stack
+**Built so far**
+- Dev and prod VPCs deployed from one parameterized template
+- VPC peering with routes on both sides, verified with ping in both directions
+- EC2 instances with no inbound SSH, administered through Session Manager using an IAM role
+- Security groups limited to ICMP from the peer VPC
+- Templates version-controlled in Git, with changes reviewed through change sets before applying
 
-I bring a combination of application support expertise and emerging cloud skills:
+**Next:** encrypted S3, least-privilege IAM, CloudWatch alarms, and deliberate failure labs (configuration drift, failed updates, access denied, restore from backup), each documented in a runbook.
 
-- **Application Support:** Unix/Windows environments, ServiceNow, Active Directory, Shell scripting
-- **Cloud Platforms:** AWS (EC2, S3, VPC, EKS)
-- **Containerization:** Docker, Kubernetes (EKS)
-- **Infrastructure as Code:** Terraform
-- **Monitoring Tools:** Prometheus
-- **Version Control:** Git
+`CloudFormation` `VPC` `EC2` `IAM` `Systems Manager` `Git`
 
 ---
 
-### Projects
+## More projects
 
-#### **Project 1: Application Support for Construction Management Platform**
-
-- Supported a platform with Windows and UNIX servers serving 2,000+ users.
-- Automated server tasks and optimized processes using shell scripting, reducing operational inefficiencies.
-- Monitored system performance using Prometheus, addressing critical alerts to ensure uptime.
-
-#### **Project 2: Kubernetes EKS Cluster Setup on AWS**
-
-- Configured a Kubernetes EKS cluster on AWS for containerized applications.
-- Deployed applications using Helm charts and managed the full application lifecycle efficiently.
-
-#### **Project 3: Automated Infrastructure Deployment on AWS**
-
-- Used Terraform to automate VPC, EC2, and S3 infrastructure setup on AWS.
-- Integrated CI/CD pipelines with Jenkins to enable seamless deployments.
-
-Explore detailed project descriptions and snapshots [here](https://karthi770.notion.site/DevOps-Projects-544630b30490481ebf2b91a97a5c5c18?pvs=4).
+| Project | What it covers |
+|---|---|
+| [Azure_VNet_NSG_Bastion](https://github.com/karthi770/Azure_VNet_NSG_Bastion) | Nginx web server on an Azure VM inside a virtual network, locked down with an NSG and reached through Azure Bastion |
+| [CICD_Terraform_DevSecOps](https://github.com/karthi770/CICD_Terraform_DevSecOps) | AWS infrastructure provisioned with Terraform and delivered through an automated CI/CD pipeline |
+| [CICD-Pipeline-EKS-cluster](https://github.com/karthi770/CICD-Pipeline-EKS-cluster) | Pipeline that deploys applications to an Amazon EKS cluster |
+| [CICD_pipeline_with_ArgoCD](https://github.com/karthi770/CICD_pipeline_with_ArgoCD) | GitOps-style deployments to Kubernetes with ArgoCD |
+| [EC2-tagging-Boto3](https://github.com/karthi770/EC2-tagging-Boto3) | Python and Boto3 automation for tagging EC2 instances |
 
 ---
 
-### Goals
+## My goal
 
-My objective is to grow as a Cloud Operations and Support Specialist, bridging my application support expertise with emerging cloud and DevOps practices. I am eager to collaborate on challenging projects, contribute to innovative solutions, and continually evolve in the technology space.
+To become a systems administrator who keeps Windows and Linux environments running reliably, securely and well documented.
+
+**Currently building toward**
+- Windows Server and Active Directory, including Group Policy
+- Linux administration
+- Virtualization with Proxmox
+- Backup and disaster recovery
+- PowerShell and Bash automation
+- Network troubleshooting
+
+Every project here follows the same loop: build it, break it on purpose, fix it, write it down.
 
 ---
 
-### Contact
+## Connect
 
-Feel free to reach out to me via email at **karthikeyanselvaraj37@gmail.com** or connect with me on [LinkedIn](https://www.linkedin.com/in/karthikeyan-selvaraj-73b6067a/).
-
-Let’s build resilient and scalable systems together! 🚀
+[LinkedIn](https://www.linkedin.com/in/karthikeyan-selvaraj-73b6067a/)
